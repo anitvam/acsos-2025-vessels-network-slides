@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="334px" preserveAspectRatio="none" style="width:396px;height:334px;background:#FFFFFF;" version="1.1" viewBox="0 0 396 334" width="396px" zoomAndPan="magnify"><defs/><g><!--MD5=[6ddecf49129699bdab62f4946e4b471e]
+cluster JaKtA--><g id="cluster_JaKtA"><rect fill="none" height="321.2" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="252" x="7" y="7"/><path d="M55,7 L55,19.0679 L45,29.0679 L7,29.0679 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="38" x="10" y="22.9659">JaKtA</text></g><!--MD5=[55ae9c85009de1c4c03bb18aab1f8057]
+entity bdi--><g id="elem_bdi"><rect fill="#F1F1F1" height="49.0679" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="142" x="101" y="154.06"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="223" y="159.06"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="221" y="161.06"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="221" y="165.06"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="116" y="189.0259">BDI interpreter</text></g><!--MD5=[7d3ddeeaf10b10359646c17141f7b84b]
+entity fsm--><g id="elem_fsm"><rect fill="#F1F1F1" height="49.0679" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="219" x="23.5" y="263.13"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="222.5" y="268.13"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="220.5" y="270.13"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="220.5" y="274.13"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="38.5" y="298.0959">Concurrency Management</text></g><!--MD5=[521e00f23c2f1607d7613f8401caca41]
+entity dsl--><g id="elem_dsl"><rect fill="#F1F1F1" height="49.0679" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="109" x="125.5" y="45"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="214.5" y="50"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="212.5" y="52"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="212.5" y="56"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="140.5" y="79.9659">Agent DSL</text></g><!--MD5=[018089ed5476d44b15d6bb3e1be7088d]
+entity 2p--><g id="elem_2p"><rect fill="#F1F1F1" height="49.0679" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="112" x="278" y="263.13"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="370" y="268.13"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="368" y="270.13"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="368" y="274.13"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="293" y="298.0959">Prolog DSL</text></g><!--MD5=[0da32014b9208121d82eddfeb8ab6c13]
+link bdi to 2p--><g id="link_bdi_2p"><path d="M208.36,203.63 C233.47,220.23 266.92,242.33 292.99,259.56 " fill="none" id="bdi-to-2p" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="296.77,262.72,291.4674,254.4204,292.5988,259.963,287.0562,261.0944,296.77,262.72" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0b8c93fed56cee16caed035469f68769]
+link bdi to fsm--><g id="link_bdi_fsm"><path d="M163.25,203.63 C157.48,219.47 149.88,240.32 143.74,257.17 " fill="none" id="bdi-to-fsm" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="141.72,261.72,148.5618,254.6355,143.4333,257.0227,141.0461,251.8942,141.72,261.72" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7c5a31ffcefeec7d4ebfda712f622610]
+link dsl to bdi--><g id="link_dsl_bdi"><path d="M178.2,94.56 C177.02,110.4 175.46,131.26 174.2,148.1 " fill="none" id="dsl-to-bdi" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="173.79,152.65,178.4476,143.972,174.1615,147.6638,170.4697,143.3777,173.79,152.65" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e089cd5c3223b8db8876b3bc4f3b2668]
+link dsl to 2p--><g id="link_dsl_2p"><path d="M205.92,94.26 C222.52,110.22 243.89,132.26 260,154.06 C284.68,187.46 307,229.95 320.52,257.71 " fill="none" id="dsl-to-2p" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="323.11,262.06,322.8012,252.216,320.9371,257.5569,315.5962,255.6927,323.11,262.06" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[50fef1a2f7b9199a9a202e760b676aaf]
+@startuml jacop_modules
+
+frame "JaKtA" {
+    [BDI interpreter] as bdi
+    [Concurrency Management] as fsm
+    [Agent DSL] as dsl
+}
+[Prolog DSL] as 2p
+
+bdi - -> 2p
+bdi - -> fsm
+
+dsl - -> bdi
+dsl - -> 2p
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

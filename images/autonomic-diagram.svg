@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="166.53659mm"
+   height="72.768288mm"
+   viewBox="0 0 166.53659 72.768286"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path3-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6-30"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path6-78" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5-5-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5-0-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6-3-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path6-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5-2-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5-8-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6-9-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path6-7-92" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5-2-9-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5-8-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6-9-1-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path6-7-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8-6-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path8-9-4" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-18.27439,-110.63415)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-50"
+       width="45.685974"
+       height="16.957315"
+       x="52.294403"
+       y="114.86458"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="75.127502"
+       y="126.17322"
+       id="text1-4"><tspan
+         id="tspan1-8"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="74.929062"
+         y="126.17322">MONITOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="44.88073"
+       y="152.05272"
+       id="text1-0-7"><tspan
+         id="tspan1-6-1"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="44.682293"
+         y="152.05272">sensors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="160.38904"
+       y="151.20769"
+       id="text1-0-4-7"><tspan
+         id="tspan1-6-7-2"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="160.1906"
+         y="151.20769">actuators</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-5-7"
+       width="45.685974"
+       height="16.957315"
+       x="103.25928"
+       y="114.86458"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="126.09239"
+       y="126.17322"
+       id="text1-3-22"><tspan
+         id="tspan1-5-61"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="125.89395"
+         y="126.17322">analyse</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-5-1-0"
+       width="45.685974"
+       height="16.957315"
+       x="103.25928"
+       y="164.93349"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="126.09239"
+       y="176.24213"
+       id="text1-3-2-6"><tspan
+         id="tspan1-5-7-1"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="125.89395"
+         y="176.24213">execute</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-5-6-5"
+       width="45.685974"
+       height="16.957315"
+       x="52.294403"
+       y="164.93349"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="75.12751"
+       y="176.24213"
+       id="text1-3-0-9"><tspan
+         id="tspan1-5-6-4"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="74.92907"
+         y="176.24213">plan</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-5-8-9"
+       width="45.704453"
+       height="27.202084"
+       x="77.146835"
+       y="134.81122"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="100.14476"
+       y="151.494"
+       id="text1-3-7-0"><tspan
+         id="tspan1-5-9-9"
+         style="font-size:7.05556px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="99.94632"
+         y="151.494">KNOwledge</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#ArrowWide-2);paint-order:stroke fill markers"
+       d="m 81.75212,148.10893 c 3.342495,-14.64399 32.46216,-14.90957 36.96037,-0.87445"
+       id="path1-1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker3-4);paint-order:stroke fill markers"
+       d="m 118.89742,149.52274 c -3.34249,14.81945 -32.462157,15.08821 -36.960367,0.88493"
+       id="path1-5-7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker5-4);marker-end:url(#marker6-30);paint-order:stroke fill markers"
+       d="m 78.63586,128.19994 6.009145,10.04269"
+       id="path4-7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker5-5-6);marker-end:url(#marker6-3-8);paint-order:stroke fill markers"
+       d="m 115.85379,157.79547 6.00915,10.04269"
+       id="path4-0-1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker5-2-3);marker-end:url(#marker6-9-4);paint-order:stroke fill markers"
+       d="m 119.42212,128.19994 -6.00914,10.04269"
+       id="path4-6-1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker5-2-9-0);marker-end:url(#marker6-9-1-8);paint-order:stroke fill markers"
+       d="m 84.645002,157.79547 -6.00914,10.04269"
+       id="path4-6-7-5" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker8-2);paint-order:stroke fill markers"
+       d="m 62.123759,149.22274 h 17.91149"
+       id="path7-9" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker8-6-6);paint-order:stroke fill markers"
+       d="m 120.34003,149.22274 h 17.91149"
+       id="path7-7-7" />
+  </g>
+</svg>

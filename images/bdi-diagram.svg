@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="164.83727mm"
+   height="78.840309mm"
+   viewBox="0 0 164.83727 78.84031"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5-2-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6-9-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path6-7-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path8-9" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(0,-104.77253)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1"
+       width="45.685974"
+       height="16.957315"
+       x="34.161587"
+       y="111.12805"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="56.99469"
+       y="122.43669"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="56.796253"
+         y="122.43669">BELIEFS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="26.747917"
+       y="148.31619"
+       id="text1-0"><tspan
+         id="tspan1-6"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="26.549479"
+         y="148.31619">sensors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="142.25623"
+       y="147.47115"
+       id="text1-0-4"><tspan
+         id="tspan1-6-7"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="142.05779"
+         y="147.47115">actuators</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-5"
+       width="45.685974"
+       height="16.957315"
+       x="85.126472"
+       y="111.12805"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="107.95958"
+       y="122.43669"
+       id="text1-3"><tspan
+         id="tspan1-5"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="107.76114"
+         y="122.43669">GOALS</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-5-1"
+       width="45.685974"
+       height="16.957315"
+       x="85.126472"
+       y="161.19696"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="107.95958"
+       y="172.5056"
+       id="text1-3-2"><tspan
+         id="tspan1-5-7"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="107.76115"
+         y="172.5056">Intentions</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-5-6"
+       width="45.685974"
+       height="16.957315"
+       x="34.161587"
+       y="161.19696"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="56.994698"
+       y="172.5056"
+       id="text1-3-0"><tspan
+         id="tspan1-5-6"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="56.796261"
+         y="172.5056">PLANS</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-5-8"
+       width="45.985973"
+       height="27.705593"
+       x="59.014027"
+       y="131.07469"
+       ry="3.1280489"
+       rx="3.1280489" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-caps:all-small-caps;text-align:center;letter-spacing:-0.396875px;word-spacing:0.661458px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="82.011948"
+       y="147.75748"
+       id="text1-3-7"><tspan
+         id="tspan1-5-9"
+         style="font-size:9.87778px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.6"
+         x="81.813507"
+         y="147.75748">REASON</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#ArrowWide);paint-order:stroke fill markers"
+       d="m 63.619308,144.3724 c 3.342495,-14.64399 32.46216,-14.90957 36.960372,-0.87445"
+       id="path1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker3);paint-order:stroke fill markers"
+       d="m 100.76461,145.78621 c -3.342489,14.81945 -32.462159,15.08821 -36.960369,0.88493"
+       id="path1-5" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker5);marker-end:url(#marker6);paint-order:stroke fill markers"
+       d="m 60.503048,124.46341 6.009145,10.04269"
+       id="path4" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker5-5);marker-end:url(#marker6-3);paint-order:stroke fill markers"
+       d="m 97.720978,154.05894 6.009152,10.04269"
+       id="path4-0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker5-2);marker-end:url(#marker6-9);paint-order:stroke fill markers"
+       d="M 101.28931,124.46341 95.280169,134.5061"
+       id="path4-6" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker5-2-9);marker-end:url(#marker6-9-1);paint-order:stroke fill markers"
+       d="m 66.51219,154.05894 -6.00914,10.04269"
+       id="path4-6-7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker8);paint-order:stroke fill markers"
+       d="m 43.990947,145.48621 h 17.91149"
+       id="path7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker8-6);paint-order:stroke fill markers"
+       d="m 102.20722,145.48621 h 17.91149"
+       id="path7-7" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+@startuml jacop_modules
+
+frame "JaKtA" {
+    [BDI interpreter] as bdi
+    [Concurrency Management] as fsm
+    [Agent DSL] as dsl
+}
+[Prolog DSL] as 2p
+
+bdi --> 2p
+bdi --> fsm
+
+dsl --> bdi
+dsl --> 2p
+
+@enduml
