@@ -1,6 +1,6 @@
-baseURL = "https://anitvam.github.io/siesta-2025-student-talk"
+baseURL = "https://anitvam.github.io/acsos-2025-vessels-network-slides"
 languageCode = "en-us"
-title = "Agents in the Field"
+title = "Robust Communication through Collective Adaptive Relay Schemes for Maritime Vessels"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 publishDir = "build"
