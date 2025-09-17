@@ -60,7 +60,7 @@
   },
   "overrides": {
     "gulp-connect": {
-      "send": "0.19.0"
+      "send": "0.19.1"
     },
     "gulp-header-comment": {
       "moment": "2.30.1"
