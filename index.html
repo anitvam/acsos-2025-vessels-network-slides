@@ -1,0 +1,242 @@
+<!DOCTYPE html><html lang="en"><head>
+	<meta name="generator" content="Hugo 0.150.0">
+    <meta charset="utf-8">
+<title>Cognitive Agents in the Field</title>
+
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><link rel="stylesheet" href="/siesta-2025-student-talk/reveal-js/dist/reset.css">
+<link rel="stylesheet" href="/siesta-2025-student-talk/reveal-js/dist/reveal.css">
+  <link rel="stylesheet" href="/siesta-2025-student-talk/css/custom-theme.min.4b5829b5a244e582b4ab5caaf7d39b979fe66587a83e9a57f54893001b7280c5.css" id="theme"><link rel="stylesheet" href="/siesta-2025-student-talk/highlight-js/solarized-dark.min.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/DanySK/css-blur-animation/master/blur.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto Mono" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oxygen Mono" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu Mono" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+<script src="https://kit.fontawesome.com/81ac037be0.js" crossorigin="anonymous"></script>
+
+  </head>
+  <body>
+    
+    <div class="reveal">
+      <div class="slides">
+  
+
+    <section><h1 id="cognitive-agents-in-the-field">Cognitive Agents in the Field:</h1>
+<h1 id="an-hybrid-approach-between-agent-oriented-and-aggregate-computation">an Hybrid Approach Between Agent-Oriented and Aggregate Computation</h1>
+<h3 id="martina-baiardi">Martina Baiardi</h3>
+<h3 id="supervisor-danilo-pianini">Supervisor: Danilo Pianini</h3>
+</section><section>
+<h2 id="context-autonomous-systems">Context: Autonomous Systems</h2>
+
+<div class="multiCol "><div class="col col-50 "><ul>
+<li>Increasingly present in our lives: drones, self-driving cars, autonomous navigation, smart cities.</li>
+<li>Agents behavior is <strong>modeled</strong> either as <strong>individual agents</strong> (equipped with goals and decision-making abilities)
+or as an emergent <strong>collective phenomena</strong> that arise from the interaction of many agents.</li>
+</ul>
+</div>
+<div class="col col-50 text-center"><img src="images/futuristic-smart-city-with-5g-global-network-technology.jpg" width="60%">
+<!-- <img src="images/industry40.png" /> -->
+</div>
+</div>
+</section><section>
+<h2 id="model-abstractions">Model abstractions</h2>
+
+<div class="multiCol "><div class="col col-50 "><p>Two approaches,
+developed in different research areas,
+are particularly useful in this context:</p>
+<ul>
+<li>
+<p><strong>BDI Agents (Belief–Desire–Intention)</strong>: model cognitive agents with decision-making capabilities,
+defining their knowledge (<em>beliefs</em>), the goals to be achieved (<em>desires</em>), and the set of actions the agent undertakes (<em>intentions</em>) to pursue those goals.</p>
+</li>
+<li>
+<p><strong>Aggregate Computing</strong>: models the collective behavior of large distributed systems, treating many agents as if they were a single coordinated organism.</p>
+</li>
+</ul>
+</div>
+<div class="col col-50 "><div class="text-center">
+<img src="images/bdi-diagram.svg" width="70%">
+</div>
+</div>
+</div>
+<p><small>— <br>
+[1] Pianini D., et. al. (2024). Multi-Paradigm Integration for the BDI Resurgence. 2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C), Aarhus, Denmark, 2024 <br>
+[2] Baiardi M. (2024). Supporting Autonomic Computing via BDI Tooling. 2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C), Aarhus, Denmark, 2024</small></p><small>
+</small>
+</section><section>
+<h2 id="goals">Goals</h2>
+<ul>
+<li>Provide a reproducible and intuitive modeling method, which
+<ul>
+<li>incorporates features of both individual cognitive agents and collective coordination.</li>
+<li>is useful for use by different scientific communities and for industry.</li>
+</ul>
+</li>
+<li>Adopt and distribute open-source software tools, to ensure transparent, community-supported, and free platforms.</li>
+<li>Provide a validation tool for the designed multi-agent system before the deployement in critical environments.</li>
+</ul>
+</section><section>
+<h2 id="approach">Approach</h2>
+<p>Three main phases:</p>
+<ol>
+<li>
+<p><strong>Multi-paradigm BDI</strong>: Integration between the BDI approach and traditional programming paradigms (imperative, functional, object-oriented), in order to make agent modeling more expressive and flexible. This integration is called JaKtA (Jason-like Kotlin Agents), as it was created with the goal of inheriting the syntax of Jason, the most widely used language in BDI agent literature.</p>
+</li>
+<li>
+<p><strong>Validation of the BDI model through simulation</strong>: Integration with a simulation engine to allow testing of scalability, robustness, and efficiency of systems before deployment. The added value is the validation of the very same code that will later be executed in production, rather than an adapted version designed to run only in simulation.</p>
+</li>
+<li>
+<p><strong>Unified Cognitive–Collective Framework</strong>: Integration of JaKtA and Collektive (an open-source framework for modeling aggregate systems), with a bidirectional flow of information between the individual and the collective.</p>
+</li>
+</ol>
+</section><section>
+<h2 id="conclusion">Conclusion</h2>
+<p>Creation of an open-source software platform for developing intelligent and adaptive autonomous systems,
+<br>with possible applications including:</p>
+<ul>
+<li><em>Mobility</em>: drone fleets for environmental monitoring or deliveries, autonomous driving.</li>
+<li><em>Industry 4.0</em>: industrial machines capable of self-organizing and cooperating within the production line.</li>
+</ul>
+</section>
+
+  
+
+
+</div>
+      
+
+    </div>
+<script type="text/javascript" src="/siesta-2025-student-talk/reveal-hugo/object-assign.js"></script>
+
+<a href="/siesta-2025-student-talk/reveal-js/dist/print/" id="print-location" style="display: none;"></a>
+
+<script type="application/json" id="reveal-hugo-site-params">{"custom_theme":"custom-theme.scss","custom_theme_compile":true,"custom_theme_options":{"enablesourcemap":true,"targetpath":"css/custom-theme.css"},"height":"1080","highlight_theme":"solarized-dark","history":true,"mermaid":[{}],"slide_number":true,"theme":"league","transition":"slide","transition_speed":"fast","width":"1920"}</script>
+<script type="application/json" id="reveal-hugo-page-params">null</script>
+
+<script src="/siesta-2025-student-talk/reveal-js/dist/reveal.js"></script>
+
+
+  
+  
+  <script type="text/javascript" src="/siesta-2025-student-talk/reveal-js/plugin/markdown/markdown.js"></script>
+  
+  <script type="text/javascript" src="/siesta-2025-student-talk/reveal-js/plugin/highlight/highlight.js"></script>
+  
+  <script type="text/javascript" src="/siesta-2025-student-talk/reveal-js/plugin/zoom/zoom.js"></script>
+  
+  <script type="text/javascript" src="/siesta-2025-student-talk/reveal-js/plugin/notes/notes.js"></script>
+  
+  
+  <script type="text/javascript" src="/siesta-2025-student-talk/reveal-js/plugin/notes/notes.js"></script>
+
+
+
+
+<script type="text/javascript">
+  
+  
+  function camelize(map) {
+    if (map) {
+      Object.keys(map).forEach(function(k) {
+        newK = k.replace(/(\_\w)/g, function(m) { return m[1].toUpperCase() });
+        if (newK != k) {
+          map[newK] = map[k];
+          delete map[k];
+        }
+      });
+    }
+    return map;
+  }
+
+  var revealHugoDefaults = { center: true, controls: true, history: true, progress: true, transition: "slide" };
+
+  var revealHugoPlugins = {
+    plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom ]
+   };
+  var revealHugoSiteParams = JSON.parse(document.getElementById('reveal-hugo-site-params').innerHTML);
+  var revealHugoPageParams = JSON.parse(document.getElementById('reveal-hugo-page-params').innerHTML);
+  
+  var options = Object.assign({},
+    camelize(revealHugoDefaults),
+    camelize(revealHugoSiteParams),
+    camelize(revealHugoPageParams),
+    camelize(revealHugoPlugins));
+  Reveal.initialize(options);
+</script>
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+
+
+
+    <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+</script>
+
+<script type="text/javascript" id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+
+<script>
+  if (/.*?(\?|&)print-pdf/.test(window.location.toString())) {
+      var ytVideos = document.getElementsByTagName("iframe")
+      for (let i = 0; i < ytVideos.length; i++) {
+          var videoFrame = ytVideos[i]
+          var isYouTube = /^https?:\/\/(www.)youtube\.com\/.*/.test(videoFrame.src)
+          if (isYouTube) {
+              console.log(`Removing ${videoFrame.src}`)
+              var parent = videoFrame.parentElement
+              videoFrame.remove()
+              var p = document.createElement('p')
+              p.append(
+                  document.createTextNode(
+                      "There was an embedded video here, but it is disabled in the printed version of the slides."
+                  )
+              )
+              p.append(document.createElement('br'))
+              p.append(
+                  document.createTextNode(
+                      `Visit instead ${
+                          videoFrame.src
+                      } or ${
+                          videoFrame.src.replace(
+                              /(^https?:\/\/(www.)youtube\.com)\/(embed\/)(\w+).*/,
+                              "https://www.youtube.com/watch?v=$4"
+                          )
+                      }`
+                  )
+              )
+              parent.appendChild(p)
+          }
+      }
+  }
+</script>
+
+
+    
+  
+
+</body></html>
