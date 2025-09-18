@@ -45,16 +45,14 @@ outputs = ["Reveal"]
 
 ---
 
-
 {{% multicol %}}
 {{% col %}}
 
 ## Rise of Autonomy & Data Collection
 
- * MASS, sensor suites (cameras, LiDAR, radar), real-time needs.
- * fkfgjkfjkfjfjf
-
- **test**
+ * MASS require real-time situational awareness for collision avoidance.
+ * Vessels are equipped with sensor suites (cameras, LiDAR, radar).
+ * => High data volumes, low latency needs.
 
 {{% /col %}}
 {{% col class="text-center"%}}
@@ -65,24 +63,15 @@ outputs = ["Reveal"]
 {{% /col %}}
 {{% /multicol %}}
 
-
 ---
 
 ## The Communication Challenge
 
-{{% multicol %}}
-{{% col %}}
 
  * Sparse vessels, harsh environment, legacy tech, high data needs.
  * Traditional maritime comms: VHF, SatCom, Wi-Fi, cellular—limitations in bandwidth, range, latency.
 
- {{% /col %}}
-{{% col class="text-center"%}}
-
- * Visual: Table/infographic comparing technologies (figure from paper)
-
- {{% /col %}}
-{{% /multicol %}}
+<img src="images/bandwidth_decay.svg" width=80% />
 
 ---
 
@@ -93,7 +82,7 @@ outputs = ["Reveal"]
 
  * Real-time ops, emergency, regulatory needs.
 
-  {{% /col %}}
+{{% /col %}}
 {{% col class="text-center"%}}
 
  * Visual: IDK maybe a ship in distress needing urgent assistance?
@@ -105,39 +94,137 @@ outputs = ["Reveal"]
 ---
 
 ## Proposed Solution: Adaptive, decentralized relay schemes.
+
+{{% multicol %}}
+{{% col %}}
+
 MST-based and cluster-based relays, aggregate programming, simulation validation.
 
-Visual: the diagrams from the paper.
+{{% /col %}}
+{{% col class="text-center"%}}
+
+
+
+<img src="images/baseline1.svg" width=30% class="preview-border"/>
+<img src="images/baseline2.svg" width=30% class="preview-border"/><br/>
+<img src="images/baseline3.svg" width=30% class="preview-border"/>
+<img src="images/csc.svg" width=30% class="preview-border"/>
+
+{{% /col %}}
+{{% /multicol %}}
 
 ---
 
+## Aggregate Programming: Quick introduction
 
-## Aggregate Programming: Concept
+{{% multicol %}}
+{{% col %}}
+
 Macro-programming, computational fields, self-organization.
-Visual:  field diagram.
+
+{{% /col %}}
+{{% col class="text-center"%}}
+
+<img src="images/macro-swarm-7.gif" width=100% />
+
+{{% /col %}}
+{{% /multicol %}}
 
 ---
 
 ## Baseline Relay Mechanism
-Visual: The picture from paper.
+
+{{% multicol %}}
+{{% col %}}
+
+{{% /col %}}
+{{% col class="col-4"%}}
+
+<div style="text-align:right;">
+<img src="images/baseline1.svg" class="preview-border zoom-in" style="transform-origin: bottom right;"/>
+<img src="images/baseline2.svg" width=20% class="preview-border" style="vertical-align:bottom;"/>
+</div>
+<div style="text-align:right;">
+<img src="images/baseline3.svg" width=20% class="preview-border" />
+<img src="images/csc.svg" width=20% class="preview-border" style="text-align:right;"/>
+</div>
+
+{{% /col %}}
+{{% /multicol %}}
 
 ---
 
 ## Distance-based Multi-Relay
+
+{{% multicol %}}
+{{% col %}}
+
 Each vessel relays to the geographically closest station.
-Visual: The picture from paper.
+
+{{% /col %}}
+{{% col class="text-center col-4"%}}
+
+<div style="text-align:left;">
+<img src="images/baseline1.svg" width=20% class="preview-border"/>
+<img src="images/baseline2.svg" class="zoom-in preview-border" style="transform-origin: bottom left; vertical-align:bottom;"/>
+</div>
+<div style="text-align:left;">
+<img src="images/baseline3.svg" width=20% class="preview-border" />
+<img src="images/csc.svg" width=20% class="preview-border" style="text-align:right;"/>
+</div>
+
+{{% /col %}}
+{{% /multicol %}}
 
 ---
 
 ## Data Rate-based Multi-Relay
+
+{{% multicol %}}
+{{% col %}}
+
 Relays chosen to maximize data rate, not just distance.
-Visual: the picture from paper.
+
+
+{{% /col %}}
+{{% col class="text-center col-4"%}}
+
+<div style="text-align:right;">
+<img src="images/baseline1.svg" width=20% class="preview-border"/>
+<img src="images/baseline2.svg" width=20% class="preview-border " />
+</div>
+<div style="text-align:right;">
+<img src="images/baseline3.svg" class="zoom-in preview-border" style="transform-origin: top right;"/>
+<img src="images/csc.svg" width=20% class="preview-border" style="vertical-align: top;"/>
+</div>
+
+{{% /col %}}
+{{% /multicol %}}
 
 ---
 
 ## Collective Summarisation Clusters (CSC)
+
+{{% multicol %}}
+{{% col %}}
+
 Vessels form clusters, leader summarizes and relays data.
-Visual: the picture from paper.
+
+
+{{% /col %}}
+{{% col class="text-center col-4"%}}
+
+<div style="text-align:left;">
+<img src="images/baseline1.svg" width=20% class="preview-border"/>
+<img src="images/baseline2.svg" width=20% class="preview-border"/>
+</div>
+<div style="text-align:left;">
+<img src="images/baseline3.svg" width=20% class="preview-border" style="vertical-align:top;"/>
+<img src="images/csc.svg" class="zoom-in preview-border" style="transform-origin: top left; text-align:right;"/>
+</div>
+
+{{% /col %}}
+{{% /multicol %}}
 
 ---
 
@@ -147,12 +234,12 @@ Visual: the picture from paper.
 
 * Real-world data (Kiel Fjord), simulation environment, vessel equipment.
 
-  {{% /col %}}
+{{% /col %}}
 {{% col class="text-center"%}}
 
-* Visual: Map of Kiel Fjord, simulation gif.
+<img src="images/simulation.gif" width=80% />
 
- {{% /col %}}
+{{% /col %}}
 {{% /multicol %}}
 
 ---

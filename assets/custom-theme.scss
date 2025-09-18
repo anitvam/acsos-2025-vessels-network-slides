@@ -374,3 +374,24 @@ kbd {
 	color: darkred;
 	font-weight: bolder;
 }
+
+// Custom CSS 
+
+.preview-border {
+	border: 2px solid #333 !important; 
+	border-radius: 20px; 
+	box-shadow: 5px 10px rgba(3, 3, 3, 0.4) !important;
+	padding: 0.2em;
+}
+
+.zoom-in {
+  width: 70% !important; /* final size */
+  transform: scale(0.5); /* start smaller */
+  animation: zoomGrow 1s ease forwards; /* duration = 1s */
+}
+
+@keyframes zoomGrow {
+  to {
+    transform: scale(1); /* reach full size */
+  }
+}
