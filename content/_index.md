@@ -27,13 +27,12 @@ outputs = ["Reveal"]
 
 * Maritime transport: 80% of world trade, growing automation.
 
-* MASS (Maritime Autonomous Surface Ships): efficiency, safety, cost.
+* **MASS** (Maritime Autonomous Surface Ships): (semi)autonomous vessels which heavily rely on sensors for operating in the environment. 
 
 **Maybe add picture of trade report ?**
 
 {{% /col %}}
 {{% col class="text-center h-100 my-auto"%}}
-
 
 <!-- <img src="images/futuristic-smart-city-with-5g-global-network-technology.jpg" width=60% /> -->
 
@@ -50,9 +49,12 @@ outputs = ["Reveal"]
 
 ## Rise of Autonomy & Data Collection
 
- * MASS require real-time situational awareness for collision avoidance.
+ * MASS require *real-time situational awareness* for *collision avoidance*.
  * Vessels are equipped with sensor suites (cameras, LiDAR, radar).
  * => High data volumes, low latency needs.
+
+ * At the same time, these kind of vessels must co-exist (and operate) with human operated vessels, which are not equipped with such sensors.
+    * they must respect maritime regulations (COLREGs)
 
 {{% /col %}}
 {{% col class="text-center"%}}
