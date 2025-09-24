@@ -67,16 +67,16 @@ Moreover, ship-to-shore communication is a regulatory requirement for maritime o
 {{% multicol %}}
 {{% col %}}
 
-* Dynamic sparse vessels distribution
-* Environmental conditions
-* The variety of communication means onboard
+* *Dynamic sparse* vessels *distribution*
+* *Environmental conditions*
+* The variety of *communication means* onboard
 
 {{% /col %}}
 {{% col class=""%}}
 
-* Traditional maritime communication system limited bandwidth 
-* Satellite communication, requires either expensive antennas not equipped on the vessel or suffers with high latency.
-* Cellular coverage (e.g. 4G and 5G) is limited to coastal areas, and cannot reach open sea directly.
+* *Traditional* maritime communication *systems limited bandwidth* 
+* *Satellite* communication, requires either *expensive antennas* not equipped on the vessel or suffers with *high latency*.
+* *Cellular* coverage (e.g. 4G and 5G) is *limited to coastal areas*, and cannot reach open sea directly.
 
 {{% /col %}}
 {{% /multicol %}}
@@ -90,13 +90,13 @@ Moreover, ship-to-shore communication is a regulatory requirement for maritime o
 
 ## Approach
 
-In this work, we address the communication challenge: we propose novel decentralized network techniques to improve sensors’ data transport and collection in the maritime environment.
+In this work, we address the communication challenge: we propose novel *decentralized* *network* *techniques* to improve sensors’ data transport and collection in the maritime environment.
 
 To do so, we propose four network approaches:
-1. Non-collaborative direct communication towards shore station
-2. MST Distance-based multi-relay communication
-3. MST Data rate-based multi-relay communication
-4. Collective Summarization Clusters
+1. Non-collaborative *direct communication* towards shore station
+2. MST *Distance-based multi-relay* communication
+3. MST *Data rate-based multi-relay* communication
+4. *Collective Summarization Clusters*
 
 {{% /col %}}
 {{% col class="text-center col-5"%}}
@@ -116,13 +116,13 @@ To do so, we propose four network approaches:
 
 ## 1. Non-Collaborative Direct Communication
 
-Inspired to current network topology, vessels communicate directly towards shore station whenever they have some bandwidth available.
+Inspired to current network topology, vessels *communicate directly towards shore station* whenever they have some bandwidth available.
 
 The limitations of this approach are intuitive:
 
-1. Limited coverage of vessels
-2. Shore station as a bottle-neck 
-3. Information redundancy 
+1. *Limited coverage* of vessels
+2. Shore stations as a *bottle-neck* 
+3. Information *redundancy* 
 
 
 {{% /col %}}
@@ -147,7 +147,7 @@ The limitations of this approach are intuitive:
 
 ## 2. Distance-based Multi-Relay Communication
 
-* All vessels that cannot communicate with shore station with sufficient bandwidth *relay* its data stream to a vessel along the geographical shortest path towards the land station.
+* All vessels that cannot communicate with shore station with sufficient bandwidth *relay* its data stream to a vessel along the *geographical* *shortest* *path* towards the land station.
 
 * Direct communication with the relay may be insufficient, while using vessels not on the shortest path may be more effective.
 
@@ -228,7 +228,7 @@ This network improves the Distance-based Multi-Relay Communication by selecting 
 
 * AP is a *functional macroprogramming* paradigm centered around the notion of a *computational field*: a distributed data structure that maps points in space and time to values.
 
-* In particular, the priority-based leader election, network partitioning, and data summarisation is an instance of the **Self-Organising Coordination Region Aggregate Pattern**.
+* In particular, the priority-based leader election, network partitioning, and data summarisation is an instance of the *Self-Organising Coordination Region Aggregate Pattern*.
 
 We adopted Collektive¹ as framework for Aggregate Programming. 
 
@@ -267,16 +267,16 @@ val upstreamDR = 1 / metric[myRelay]
 
 ## Simulation Setup
 
-* All vessels are equipped with: GPS, ARPS (VHF), Wi-Fi, and 5G consumer module
+* All vessels are equipped with: *GPS*, *ARPS (VHF)*, *Wi-Fi*, and *5G consumer module*
 
-* $p_{5G}$ percentage of vessels with 5G repeater
+* *$p_{5G}$* percentage of vessels with *5G repeater*
 
 * Real navigation data (from Kiel Fjord)
-   * 6 hours time window from August 18, 2022
+   * *6 hours* time window from *August 18, 2022*
 
-* Open data used to locate 5G towers and the AIS shore stations along the Kiel coast.
+* *Open data* used to locate *5G towers* and the *AIS shore stations* along the Kiel coast.
 
-* We used Alchemist² to perform the simulation, which is an open-soure event-driven simulator supported by the Aggregate Programming framework.
+* We used *Alchemist²* to perform the simulation, which is an open-source event-driven simulator supported by the Aggregate Programming framework.
 
 <small>
 
@@ -321,7 +321,7 @@ As evaluation metric we measure the data rate that each vessel transmit for each
 ---
 
 ## Conclusion
-Source code for executing and reproducing experiments is freely available on GitHub under permissive license.
+Source code for executing and reproducing experiments is freely available on *GitHub* under a permissive license.
 
 <img src="images/qr.png" />
 
