@@ -168,7 +168,6 @@ The limitations of this approach are intuitive:
 
 ---
 
-
 {{% multicol %}}
 {{% col %}}
 
@@ -323,6 +322,7 @@ As evaluation metric we measure the data rate that each vessel transmit for each
 ## Conclusion
 Source code for executing and reproducing experiments is freely available on *GitHub* under a permissive license.
 
-<img src="images/qr.png" />
+<img src="images/qr.png" /><br />
+*Badge awarded from the artifact evaluation committee.*
 
 ### Thank you
